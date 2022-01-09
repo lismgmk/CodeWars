@@ -15,6 +15,7 @@ import {NonRepeatLatter} from "./Kata_5/NonRepeatLatter";
 import {HashTag} from "./Kata_5/Hashtag";
 import {Snail} from "./Kata_4/Snail";
 import {Scramble} from "./Kata_5/Scramble";
+import {IncrementString} from "./Kata_5/IncrementString";
 
 export const App = () => {
     return (
@@ -36,7 +37,8 @@ export const App = () => {
         {/*    <NonRepeatLatter/>*/}
         {/*    <HashTag/>*/}
        {/*<Snail/>*/}
-            <Scramble/>
+       {/*     <Scramble/>*/}
+            <IncrementString/>
         </div>
     )
 }
